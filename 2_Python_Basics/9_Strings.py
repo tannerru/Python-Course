@@ -12,6 +12,6 @@ O O
 print (long_string)
 
 first_name = "Tanner"
-last_name = "rusher"
+last_name = "Rusher"
 full_name = first_name + ' ' + last_name
 print(full_name)
