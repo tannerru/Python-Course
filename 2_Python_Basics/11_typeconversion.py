@@ -4,5 +4,3 @@ c = type(b)
 print(c)
 
 print(type(int(str(100))))
-
-

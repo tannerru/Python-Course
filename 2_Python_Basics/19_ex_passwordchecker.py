@@ -1,15 +1,11 @@
 
-#less code, same results
+# less code, same results
 username = input('username: ')
 password = input('password: ')
 print(f'hello {username}, your password {len(password)* "*"} is {len(password)} letters long')
 
 
-
-
-
-
-#Do people prefer more variables for easy readability vs less code written??
+# Do people prefer more variables for easy readability vs less code written??
 username = input('username: ')
 password = input('password: ')
 password_length = len(password)

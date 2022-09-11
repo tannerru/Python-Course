@@ -7,9 +7,9 @@ long_string = '''
 Wow 
 O O
 ---
-''' #using 3 quotes to open an end allows multiple lines of text
+'''  # using 3 quotes to open an end allows multiple lines of text
 
-print (long_string)
+print(long_string)
 
 first_name = "Tanner"
 last_name = "Rusher"
