@@ -1,8 +1,14 @@
 #Tuple
 # Like lists but cannot be modified (immutable)
 
-my_tuple = (1,2,3,4,5)
-print(5 in my_tuple)
+# x,y,z, *other = (1,2,3,4,5)
+# print(other)
+# #printing user.items returns as tuples in a dictionary
 
-#printing user.items returns as tuples
 
+my_tuple = (1,2,3,4,5,5)
+print(my_tuple.index(4))
+print(len(my_tuple))
+
+
+#TLDR Tuples are immutable lists
